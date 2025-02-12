@@ -5,7 +5,7 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>TestURL</shortDescription>
-        <value>www.dev1.com</value>
+        <value>{!Environment.URL2}</value>
     </labels>
     <labels>
         <fullName>URL</fullName>
