@@ -11,7 +11,7 @@
         <fullName>URL</fullName>
         <language>en_US</language>
         <protected>false</protected>
-        <shortDescription>URL TEST</shortDescription>
-        <value>www.dev1000.com</value>
+        <shortDescription>URL</shortDescription>
+        <value>www.test.com</value>
     </labels>
 </CustomLabels>
